@@ -1,6 +1,6 @@
 class Exception {
 
     fun  main(){
-        
+
     }
 }

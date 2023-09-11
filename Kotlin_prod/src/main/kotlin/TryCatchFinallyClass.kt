@@ -3,9 +3,9 @@ class TryCatchFinallyClass {
     fun main(){
 
         try {
-
-        }catch (e: Exception){
-            println("Error")
+            //throw Exception()
+       // }catch (e : Exception){
+          //  println(e.toString())
         }finally {
 
         }
