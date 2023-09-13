@@ -1,4 +1,4 @@
-class Collections {
+
     fun main(){
         println(add(5,5))
     }
@@ -8,5 +8,4 @@ class Collections {
        return a + b
     }
 
-   
-}
+
