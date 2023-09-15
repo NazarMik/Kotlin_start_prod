@@ -1,4 +1,0 @@
-class Foor_loop {
-
-    
-}
