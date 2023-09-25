@@ -19,6 +19,6 @@ class Smartphone{
         Smartphone().battery
         Smartphone().GooglePixel()
         Smartphone().GooglePixel().about()
-        
+
     }
 }
